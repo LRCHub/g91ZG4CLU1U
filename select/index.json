@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Others",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-25T12:03:50.883327Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Debbie, Don't Send This Song To Others",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/01_Debbie,_Don't_Send_This_Song_To_Others_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Some Will Seek Forgiveness, Others Escape",
+      "artist": "Underoath",
+      "has_synced": false,
+      "path": "select/02_Some_Will_Seek_Forgiveness,_Others_Escape_Underoath.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Some Days Are Better Than Others",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/03_Some_Days_Are_Better_Than_Others_U2.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Others - Original",
+      "artist": "Nimmo",
+      "has_synced": false,
+      "path": "select/04_Others_-_Original_Nimmo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Am the Others",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/05_I_Am_the_Others_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Others Delight",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/06_Others_Delight_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Million Others",
+      "artist": "Lupa J",
+      "has_synced": false,
+      "path": "select/07_A_Million_Others_Lupa_J.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep Eye On Other's Gain",
+      "artist": "Bonnie \"Prince\" Billy",
+      "has_synced": false,
+      "path": "select/08_Keep_Eye_On_Other's_Gain_Bonnie__Prince__Billy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Payphone (The Others remix)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/09_Payphone_(The_Others_remix)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Family Of Others",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/10_Family_Of_Others_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do Unto Others",
+      "artist": "Stryper",
+      "has_synced": true,
+      "path": "select/11_Do_Unto_Others_Stryper.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Some Girls Are Bigger Than Others",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/12_Some_Girls_Are_Bigger_Than_Others_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "While You Wait For The Others",
+      "artist": "Grizzly Bear",
+      "has_synced": true,
+      "path": "select/13_While_You_Wait_For_The_Others_Grizzly_Bear.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "While Others Cry",
+      "artist": "The Future Sound of London",
+      "has_synced": false,
+      "path": "select/14_While_Others_Cry_The_Future_Sound_of_London.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Who Are Not As Others",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/15_We_Who_Are_Not_As_Others_Sepultura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Others",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_Others_DEXCORE.txt"
+    }
+  ]
+}
